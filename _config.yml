@@ -9,7 +9,7 @@ description: 코딩 없이 만드는 나만의 자산관리사!
 
 books:
 
-- title: 비전공자가 업무에서 자주 물어보는 101가지 컴퓨터 활용팁
+- title: 101가지 컴퓨터 활용팁
   pic: https://cdn.jsdelivr.net/gh/needleworm/needleworm.github.io/src/images/books/covers/10.jpg
   stores:
     - shop: naver
@@ -21,7 +21,7 @@ books:
     - shop: kyobo
       url: http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970504872&orderClick=LAG&Kc=
 
-- title: 수학.통계를 몰라도 이해할 수 있는 쉬운 딥러닝
+- title: 쉬운 딥러닝
   pic: https://cdn.jsdelivr.net/gh/needleworm/needleworm.github.io/src/images/books/covers/8.jpg
   stores:
     - shop: naver

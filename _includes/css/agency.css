@@ -4,19 +4,14 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- .chapterTitle{
-     max-width:550px;
-     margin-top:50px;
-     margin-left:auto;
-     margin-right:auto;
-     text-align:left;
- }
+ .chapterSubtitle{
+    color: #00a84b;
+    font-size: 19px;
+}
 
- .chapterContent{
-    max-width:500px;
-    margin-left:auto;
-    margin-right:auto;
-    text-align:left;
+ .chapterTitle{
+    color:#bc61ab;
+    font-size:24px;
  }
 
 #functionIntroduceGrid{
