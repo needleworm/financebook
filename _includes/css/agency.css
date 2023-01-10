@@ -267,6 +267,7 @@ fieldset[disabled] .btn-xl.active {
 @media(max-width:768px) {
 .logo {
     height:90%;
+    margin-top:2px;
 }
 }
 
