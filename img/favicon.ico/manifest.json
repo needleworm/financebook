@@ -1,6 +1,5 @@
 {
  "name": "자산 자동관리",
- "display": "fullscreen",
  "theme_color": "#000000",
  "background_color": "#ffffff",
  "icons": [
@@ -23,5 +22,7 @@
    "type": "image/png",
    "density": "2.0"
   },
+  "start_url": "/?standalone=true",
+  "display": "standalone"
  ]
 }
