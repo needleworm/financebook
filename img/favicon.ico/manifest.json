@@ -1,4 +1,7 @@
 {
+  "manifest_version": 2,
+ "display": "fullscreen",
+ "start_url": "/financebook/?fullscreen=true",
  "name": "자산 자동관리",
  "theme_color": "#000000",
  "background_color": "#ffffff",
@@ -21,8 +24,6 @@
    "sizes": "96x96",
    "type": "image/png",
    "density": "2.0"
-  },
-  "start_url": "/?standalone=true",
-  "display": "standalone"
+  }
  ]
 }
